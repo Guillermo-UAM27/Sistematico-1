@@ -1,0 +1,10 @@
+C:\Users\gemel\Desktop\Sistematico 1\Sistematico-1\RangoNumeros\RangoNumeros\obj\Debug\RangoNumeros.csproj.AssemblyReference.cache
+C:\Users\gemel\Desktop\Sistematico 1\Sistematico-1\RangoNumeros\RangoNumeros\obj\Debug\RangoNumeros.Form1.resources
+C:\Users\gemel\Desktop\Sistematico 1\Sistematico-1\RangoNumeros\RangoNumeros\obj\Debug\RangoNumeros.Properties.Resources.resources
+C:\Users\gemel\Desktop\Sistematico 1\Sistematico-1\RangoNumeros\RangoNumeros\obj\Debug\RangoNumeros.csproj.GenerateResource.cache
+C:\Users\gemel\Desktop\Sistematico 1\Sistematico-1\RangoNumeros\RangoNumeros\obj\Debug\RangoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\gemel\Desktop\Sistematico 1\Sistematico-1\RangoNumeros\RangoNumeros\bin\Debug\RangoNumeros.exe.config
+C:\Users\gemel\Desktop\Sistematico 1\Sistematico-1\RangoNumeros\RangoNumeros\bin\Debug\RangoNumeros.exe
+C:\Users\gemel\Desktop\Sistematico 1\Sistematico-1\RangoNumeros\RangoNumeros\bin\Debug\RangoNumeros.pdb
+C:\Users\gemel\Desktop\Sistematico 1\Sistematico-1\RangoNumeros\RangoNumeros\obj\Debug\RangoNumeros.exe
+C:\Users\gemel\Desktop\Sistematico 1\Sistematico-1\RangoNumeros\RangoNumeros\obj\Debug\RangoNumeros.pdb
