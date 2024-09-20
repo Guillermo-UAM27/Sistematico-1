@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Operaciones\\",
+  "WorkspaceRootPath": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Sistematico-1\\Operaciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F23EFDB0-D32A-4F8C-A3C3-F4E7E08433F1}|Operaciones\\Operaciones.csproj|c:\\users\\jpnic\\onedrive\\desktop\\ejercicio1 prueba\\operaciones\\operaciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F23EFDB0-D32A-4F8C-A3C3-F4E7E08433F1}|Operaciones\\Operaciones.csproj|solutionrelative:operaciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F23EFDB0-D32A-4F8C-A3C3-F4E7E08433F1}|Operaciones\\Operaciones.csproj|c:\\users\\jpnic\\onedrive\\desktop\\ejercicio1 prueba\\operaciones\\operaciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F23EFDB0-D32A-4F8C-A3C3-F4E7E08433F1}|Operaciones\\Operaciones.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Sistematico-1\\Operaciones\\operaciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F23EFDB0-D32A-4F8C-A3C3-F4E7E08433F1}|Operaciones\\Operaciones.csproj|solutionrelative:operaciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F23EFDB0-D32A-4F8C-A3C3-F4E7E08433F1}|Operaciones\\Operaciones.csproj|c:\\users\\jpnic\\onedrive\\desktop\\ejercicio1 prueba\\operaciones\\operaciones\\clases\\operacionesmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F23EFDB0-D32A-4F8C-A3C3-F4E7E08433F1}|Operaciones\\Operaciones.csproj|c:\\users\\jpnic\\onedrive\\desktop\\ejercicio1 prueba\\sistematico-1\\operaciones\\operaciones\\clases\\operacionesmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F23EFDB0-D32A-4F8C-A3C3-F4E7E08433F1}|Operaciones\\Operaciones.csproj|solutionrelative:operaciones\\clases\\operacionesmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23EFDB0-D32A-4F8C-A3C3-F4E7E08433F1}|Operaciones\\Operaciones.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Sistematico-1\\Operaciones\\operaciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23EFDB0-D32A-4F8C-A3C3-F4E7E08433F1}|Operaciones\\Operaciones.csproj|solutionrelative:operaciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,37 +34,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Operaciones\\Operaciones\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Sistematico-1\\Operaciones\\Operaciones\\Form1.cs",
               "RelativeDocumentMoniker": "Operaciones\\Form1.cs",
-              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Operaciones\\Operaciones\\Form1.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Sistematico-1\\Operaciones\\Operaciones\\Form1.cs",
               "RelativeToolTip": "Operaciones\\Form1.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T14:22:00.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "OperacionesMat.cs",
-              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Operaciones\\Operaciones\\Clases\\OperacionesMat.cs",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Sistematico-1\\Operaciones\\Operaciones\\Clases\\OperacionesMat.cs",
               "RelativeDocumentMoniker": "Operaciones\\Clases\\OperacionesMat.cs",
-              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Operaciones\\Operaciones\\Clases\\OperacionesMat.cs*",
-              "RelativeToolTip": "Operaciones\\Clases\\OperacionesMat.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBsAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Sistematico-1\\Operaciones\\Operaciones\\Clases\\OperacionesMat.cs",
+              "RelativeToolTip": "Operaciones\\Clases\\OperacionesMat.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T14:18:35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Operaciones\\Operaciones\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Sistematico-1\\Operaciones\\Operaciones\\Form1.cs",
               "RelativeDocumentMoniker": "Operaciones\\Form1.cs",
-              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Operaciones\\Operaciones\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\ejercicio1 prueba\\Sistematico-1\\Operaciones\\Operaciones\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Operaciones\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T14:13:46.878Z",

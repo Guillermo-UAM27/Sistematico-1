@@ -48,17 +48,17 @@ namespace Operaciones
 
         private void BtnDivision_Click(object sender, EventArgs e)
         {
-            int num1 = int.Parse(TbNum2.Text);
-            int num2 = int.Parse(TbNum1.Text);
+            int num1 = int.Parse(TbNum1.Text);
+            int num2 = int.Parse(TbNum2.Text);
 
-                double resultado = operaciones.Dividiendo(num1, num2);
+            double resultado = operaciones.Dividiendo(num1, num2);
             LblMostrarResultados.Text = "Resultado: " + resultado.ToString();
 
         }
 
         private void BtnSuma_Click(object sender, EventArgs e)
         {
-            int num1 = int.Parse(TbNum1.Text); // Asumiendo que tienes TextBoxs llamados txtNum1 y txtNum2
+            int num1 = int.Parse(TbNum1.Text); 
             int num2 = int.Parse(TbNum2.Text);
 
             double resultado = operaciones.Sumando(num1,num2);

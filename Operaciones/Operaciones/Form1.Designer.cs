@@ -72,7 +72,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(520, 143);
+            this.label4.Location = new System.Drawing.Point(520, 144);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(230, 20);
             this.label4.TabIndex = 3;
@@ -83,11 +83,11 @@
             this.LblMostrarResultados.AutoSize = true;
             this.LblMostrarResultados.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LblMostrarResultados.ForeColor = System.Drawing.Color.OrangeRed;
-            this.LblMostrarResultados.Location = new System.Drawing.Point(610, 180);
+            this.LblMostrarResultados.Location = new System.Drawing.Point(519, 180);
             this.LblMostrarResultados.Name = "LblMostrarResultados";
-            this.LblMostrarResultados.Size = new System.Drawing.Size(85, 29);
+            this.LblMostrarResultados.Size = new System.Drawing.Size(195, 29);
             this.LblMostrarResultados.TabIndex = 4;
-            this.LblMostrarResultados.Text = "label5";
+            this.LblMostrarResultados.Text = "El resultado es:";
             this.LblMostrarResultados.Click += new System.EventHandler(this.LblMostrarResultados_Click);
             // 
             // label6

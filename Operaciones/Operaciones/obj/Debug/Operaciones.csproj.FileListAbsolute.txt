@@ -3,3 +3,13 @@ C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Operaciones\Operaciones\obj\De
 C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Operaciones\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
 C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.cache
 C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Sistematico-1\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Sistematico-1\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Sistematico-1\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Sistematico-1\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.AssemblyReference.cache
+C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Sistematico-1\Operaciones\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Sistematico-1\Operaciones\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Sistematico-1\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.cache
+C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Sistematico-1\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Sistematico-1\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\jpnic\OneDrive\Desktop\ejercicio1 prueba\Sistematico-1\Operaciones\Operaciones\obj\Debug\Operaciones.pdb
